@@ -17,3 +17,8 @@ The one true brace style is used:
         nonnegative(x);
     }
 
+Strings are quoted with single quotes.
+
+Comments have one space after the comment marker and are written in properly punctuated sentences.
+
+Spaces are preferred to tabs for indentation.  Spaces and tabs for indentation are *never* mixed.
