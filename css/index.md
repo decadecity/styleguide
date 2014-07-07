@@ -8,13 +8,17 @@ Space after the `:` and no space before the `;`.
 
 Colours are written using *six* digit hex codes, letters are lower case.
 
+When in any doubt, don't use shorthand notation.
+
 ## Selectors
 
 Rules within selectors are organised as follows:
 
- *
- *
- *
+  1. Box
+  2. Border
+  3. Background
+  4. Text
+  5. Other
 
 [This follows the SMACCS convention.]
 
