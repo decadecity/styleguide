@@ -15,6 +15,9 @@ The following doctype is used:
 
 [The HTML5 doctype is specified as case insensitive but using an upper case doctype declaration maintains compatibility with XML.]
 
+## Language
+The default language used for British websites is British English: `<html lang="en-GB">`
+
 ## `<head>` ordering
 
  1. Charset
