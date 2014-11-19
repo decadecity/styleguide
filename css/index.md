@@ -30,4 +30,4 @@ Media queries do not contain a medium unless explicitly required.
 
 Min-width media queries are preferred: `@media (min-width: 20em)`
 
-Media queries dimentions are expressed in `em` wherever possible.
+Media queries dimensions are expressed in `em` wherever possible.
