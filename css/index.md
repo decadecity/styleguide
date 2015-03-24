@@ -6,6 +6,10 @@ Indentation: 2 spaces
 
 Space after the `:` and no space before the `;`.
 
+Space before the `{` and `}` on its own line.
+
+Each selector on its own line.
+
 Colours are written using *six* digit hex codes, letters are lower case.
 
 When in any doubt, don't use shorthand notation.

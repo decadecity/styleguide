@@ -36,6 +36,10 @@ The character set should be defined as UTF-8.  If using a `<meta>` tag then it s
 The definition of the charset as a meta tag is: `<meta charset="utf-8"/>`
 
 ## Viewport
-The following viewport is used: `<meta name="viewport" content="width=device-width,initial-scale=1"/>`
+The following viewport is used:
+
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <style>@-ms-viewport, @viewport { width: device-width !important; }</style>
+
 
 
